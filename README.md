@@ -43,7 +43,7 @@ success in this context?
 
 **EDA with SQL results**
 
-<img src="Figures/EDA_SQL.PNG" width = "400">
+<img src="Figures/EDA_SQL.PNG" width = "400"> 
 
 ### Data visualization and interacitve analytics demo
 **Launch site locations and success rate**
@@ -51,7 +51,7 @@ success in this context?
 
 **Success launch vs. Launch Site**
 
-<img src="Figures/EDA_launch.PNG" width = "600">
+<img src="Figures/EDA_launch.PNG" width = "600">   <img src="Figures/pie.PNG" width = "350"> 
 
 
 **Success launch vs. Orbit Types**
@@ -61,3 +61,7 @@ success in this context?
 **Yearly Trend of Success launch**
 
 <img src="Figures/trend.PNG" width = "400">
+
+
+
+
