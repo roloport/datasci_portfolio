@@ -63,5 +63,17 @@ success in this context?
 <img src="Figures/trend.PNG" width = "400">
 
 
+**Model accuracy**
+
+<img src="Figures/scores.PNG" width = "300"> &nbsp;&nbsp;&nbsp;&nbsp; <img src="Figures/confusion.PNG" width = "280">
+
+
+## Conclusion 
+* The Decision Tree Model proved to be the most effective algorithm for predicting landing success with this dataset.
+* Launches with lower payload mass tend to have higher success rates compared to those with heavier payloads.
+* The majority of launch sites are strategically located near the equator and in close proximity to coastlines, optimizing launch efficiency.
+* The success rate of launches has improved consistently over time, indicating advancements in technology and processes.
+* Among all the launch sites, KSC LC-39A demonstrated the highest success rate, making it the most reliable site.
+* Certain orbits, such as ES-L1, GEO, HEO, and SSO, achieved a 100% success rate, suggesting their suitability for specific mission profiles.
 
 
