@@ -56,7 +56,7 @@ success in this context?
 
 **Success launch vs. Orbit Types**
 
-<img src="Figures/orbits.PNG" width = "280"> <img src="Figures/FN_orbit.PNG" width = "350"> <img src="Figures/payload_orbit.PNG" width = "340">
+<img src="Figures/orbits.PNG" width = "200"> <img src="Figures/FN_orbit.PNG" width = "250"> <img src="Figures/payload_orbit.PNG" width = "240">
 
 **Yearly Trend of Success launch**
 
